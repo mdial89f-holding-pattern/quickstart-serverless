@@ -29,6 +29,7 @@ _List any other information that you think is important... a post-merge activity
 - [ ] This PR and linked issues(s) are a complete description of the changeset; an individual or team should be able to understand the issue(s) and changes by reading through this PR and it's links, with no further interaction.
 - [ ] Someone has been assigned this PR.
 - [ ] At least one person has been marked as reviewer on this PR.
+- [ ] I have looked at the code in this PR, and verify only my changes are shown.
 
 #### Pull Request Reviewer/Assignee Checklist
 
